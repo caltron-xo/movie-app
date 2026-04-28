@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <rect width="32" height="32" rx="6" fill="#030014"/>
+  <!-- Clapperboard body -->
+  <rect x="6" y="13" width="20" height="14" rx="2" fill="#AB8BFF"/>
+  <!-- Clapperboard top strip -->
+  <rect x="6" y="9" width="20" height="5" rx="1" fill="#fff"/>
+  <!-- Black stripes on top strip -->
+  <rect x="9" y="9" width="3" height="5" fill="#030014"/>
+  <rect x="15" y="9" width="3" height="5" fill="#030014"/>
+  <rect x="21" y="9" width="3" height="5" fill="#030014"/>
+  <!-- Play triangle -->
+  <polygon points="13,17 13,23 20,20" fill="#030014"/>
+</svg>
